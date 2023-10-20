@@ -1,7 +1,7 @@
 # image-compressor
 
 ## Overview
-The image compressor is a lightweight and straightforward tool that is capable of reducing the size of images.It utilizes an algorithm inspired by [PCA (Principal Component Analysis)](https://en.wikipedia.org/wiki/Principal_component_analysis) to compress images, resulting in a size reduction of at least 50% compared to the original size.By using this tool, you can effectively save memory and storage space.
+<p style="text-align: justify">The image compressor is a lightweight and straightforward tool that is capable of reducing the size of images.It utilizes an algorithm inspired by [PCA (Principal Component Analysis)](https://en.wikipedia.org/wiki/Principal_component_analysis) to compress images, resulting in a size reduction of at least 50% compared to the original size.By using this tool, you can effectively save memory and storage space.</p>
 
 ## Installation
 To use the Image Compressor, follow these steps:
@@ -31,12 +31,12 @@ Like compressing, replace `image.npz` with the path of your compressed file.
 ## Example
 
 <figure>
-    <p align="center" style="text-align:center; width:50%; height: 50%"><figcaption>Original image</figcaption></p>
+    <p align="center" style="text-align: justify; width:50%; height: 50%"><figcaption>Original image</figcaption></p>
     <img src="assets/isfahan-o.jpg" alt="Image Description">
 </figure>
 
 <figure>
-    <p align="center" style="text-align:center;width:50%; height: 50%"><figcaption>Decompressed image</figcaption></p>
+    <p align="center" style="text-align: justify;width:50%; height: 50%"><figcaption>Decompressed image</figcaption></p>
     <img src="assets/isfahan-d.jpg" alt="Image Description">
 </figure>
 
