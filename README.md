@@ -39,16 +39,16 @@ python setup.py -d "image.npz"
 Like compressing, replace `image.npz` with the path of your compressed file.
 
 ## Example
-<span>
+<span style="width: 45%">
 <figure>
 <img src="assets/isfahan-o.jpg" style="text-align:center;width:40%; height: 40%" alt="Image Description">
-<figcaption>Original Image</figcaption>
+<span style="text-align: center"><figcaption>Original Image</figcaption></span>
 </figure>
 </span>
-<span>
+<span style="width: 45%">
 <figure>
 <img src="assets/isfahan-d.jpg" style="text-align:center;width:40%; height: 40%" alt="Image Description">
-<figcaption>Decompressed Image</figcaption>
+<span style="text-align: center"><figcaption>Decompressed Image</figcaption></span>
 </figure>
 </span>  
 
