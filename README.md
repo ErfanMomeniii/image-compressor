@@ -40,7 +40,7 @@ Like compressing, replace `image.npz` with the path of your compressed file.
 
 ## Example
 
-<span style="text-align: center">
+<div style="text-align: center">
 <p style="display: inline-block;text-align: center">
 <img src="assets/isfahan-o.jpg" style="text-align:center;width:50%; height: 40%" alt="Image Description">
 <br>
@@ -51,7 +51,7 @@ Like compressing, replace `image.npz` with the path of your compressed file.
 <br>
 <em>Decompressed Image</em>
 </p>  
-</span>
+</div>
 
 ## Contributing
 
