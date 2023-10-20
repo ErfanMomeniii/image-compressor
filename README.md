@@ -40,8 +40,8 @@ Like compressing, replace `image.npz` with the path of your compressed file.
 
 ## Example
 
-<img src="assets/isfahan-o.jpg" style="text-align:center;width:30%; height: 40%" alt="Image Description">
-<img src="assets/isfahan-d.jpg" style="text-align:center;width:30%; height: 40%" alt="Image Description">
+<img src="assets/isfahan-o.jpg" style="display:inline-block;text-align:center;width:30%; height: 40%" alt="Image Description">
+<img src="assets/isfahan-d.jpg" style="display:inline-block;text-align:center;width:30%; height: 40%" alt="Image Description">
   
 
 ## Contributing
