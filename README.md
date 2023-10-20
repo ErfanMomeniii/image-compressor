@@ -1,7 +1,7 @@
 # image-compressor
 
 ## Overview
-<p style="text-align: justify">The image compressor is a lightweight and straightforward tool that is capable of reducing the size of images.It utilizes an algorithm inspired by [PCA (Principal Component Analysis)](https://en.wikipedia.org/wiki/Principal_component_analysis) to compress images, resulting in a size reduction of at least 50% compared to the original size.By using this tool, you can effectively save memory and storage space.</p>
+The image compressor is a lightweight and straightforward tool that is capable of reducing the size of images.It utilizes an algorithm inspired by [PCA (Principal Component Analysis)](https://en.wikipedia.org/wiki/Principal_component_analysis) to compress images, resulting in a size reduction of at least 50% compared to the original size.By using this tool, you can effectively save memory and storage space.
 
 ## Installation
 To use the Image Compressor, follow these steps:
