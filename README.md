@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To compress an image, run the following command:
+<b>To compress an image, run the following command:</b>
 
 ```
 python setup.py -c "image.jpg"
@@ -30,7 +30,7 @@ python setup.py -c "image.jpg"
 
 Replace `image.jpg` with the path of your input image and it will output compressed file like `image.npz`.
 
-To decompress an image from `.npz` file, run the following command:
+<b>To decompress an image from `.npz` file, run the following command:</b>
 
 ```
 python setup.py -d "image.npz"
