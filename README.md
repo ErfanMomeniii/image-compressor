@@ -31,12 +31,12 @@ Like compressing, replace `image.npz` with the path of your compressed file.
 ## Example
 
 <figure>
-    <p align="center" style="text-align:center"><figcaption>Original image</figcaption></p>
+    <p align="center" style="text-align:center; width:50%; height: 50%"><figcaption>Original image</figcaption></p>
     <img src="assets/isfahan-o.jpg" alt="Image Description">
 </figure>
 
 <figure>
-    <p align="center" style="text-align:center"><figcaption>Decompressed image</figcaption></p>
+    <p align="center" style="text-align:center;width:50%; height: 50%"><figcaption>Decompressed image</figcaption></p>
     <img src="assets/isfahan-d.jpg" alt="Image Description">
 </figure>
 
